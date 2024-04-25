@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root {
+  color: white !important;
+}
+
+.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root {
+  color: white !important;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border-color: rgba(255, 255, 255, 0.23) !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  color: #a8a8a8  !important;
+}
+
+  .hoverBlue:hover {
+    color: #1565c0 !important;
+  }
